@@ -1,0 +1,23 @@
+[home]
+index = "Home"
+hello = "Hello, there's not much here. Check out other pages?"
+
+[profile]
+index = "Profile"
+raw_profile_name = "Raw Profile Name"
+profile_name = "Profile Name"
+service_provider = "Service Provider"
+state = "Status"
+enable = "Enable"
+disable = "Disable"
+rename = "Rename"
+
+[settings]
+index = "Settings"
+select_apdu_backend = "Select APDU Backend"
+backend = "Backend"
+device = "Device"
+backend_not_support_device_list = "Backend does not support querying device list"
+
+[logs]
+index = "Logs"

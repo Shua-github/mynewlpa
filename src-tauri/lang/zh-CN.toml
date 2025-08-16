@@ -1,0 +1,26 @@
+[home]
+index = "主页"
+hello = "你好,这里没什么东西,去其他页面看看?"
+
+[profile]
+index = "配置文件"
+raw_profile_name = "原始配置文件名"
+profile_name = "配置文件名"
+service_provider = "服务提供商"
+state = "状态"
+enable = "启用"
+disable = "禁用"
+rename = "重命名"
+
+[settings]
+index = "设置"
+select_apdu_backend = "选择 APDU 后端"
+backend = "后端"
+device = "设备"
+backend_not_support_device_list = "后端不支持查询设备列表"
+
+[logs]
+index = "日志"
+
+
+
